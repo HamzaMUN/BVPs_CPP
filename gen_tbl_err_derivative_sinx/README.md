@@ -1,0 +1,3 @@
+## Use finite difference methods (forward, backward, central and extrapolated central) to approximate first-order solutions
+### Comments on results:
+We computed the sin(x) derivative at x = 1 by looping over the required values of h using vectorized arrays. We used four formulas to calculate and compare the derivative with the actual derivative. We noticed that the error decreases as we increase the value of h, and we can imply that as h approaches zero (0), the solution to the first-order differential equation becomes accurate. However, the error decay is the same for forward and backward difference methods. Still, it decays quicker if we use the central difference method and even quicker than the central difference if we use the extrapolated central difference method.
