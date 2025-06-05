@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1737418209 source:/home/hamza/Projects/MUN/CMSC/BVP_CPP/gen_tbl_err_derivative_sinx/main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<cmath>
+	"../uniformly_spaced_points/uniformly_spaced_points.h"
+	"finite_difference.h"
+
+1737417182 /home/hamza/Projects/MUN/CMSC/BVP_CPP/uniformly_spaced_points/uniformly_spaced_points.h
+	<vector>
+
+1737417937 /home/hamza/Projects/MUN/CMSC/BVP_CPP/gen_tbl_err_derivative_sinx/finite_difference.h
+

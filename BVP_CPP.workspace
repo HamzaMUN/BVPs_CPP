@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="BVP_CPP">
+		<Project filename="uniformly_spaced_points/uniformly_spaced_points.cbp" />
+		<Project filename="gen_tbl_err_derivative_sinx/gen_tbl_err_derivative_sinx.cbp" />
+		<Project filename="gen_tridiagonal_matrix_and_rhs_vector/gen_tridiagonal_matrix_and_rhs_vector.cbp" />
+		<Project filename="sol_grid_system/sol_grid_system.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
